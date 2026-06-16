@@ -1,0 +1,5 @@
+"scripts": {
+  "test": "npx playwright test",
+  "test:chromium": "npx playwright test --project=chromium",
+  "report": "npx playwright show-report"
+}
